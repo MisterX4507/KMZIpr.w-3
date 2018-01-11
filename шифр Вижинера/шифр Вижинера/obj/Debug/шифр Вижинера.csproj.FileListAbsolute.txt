@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\шифр Вижинера\шифр Вижинера\bin\Debug\шифр Вижинера.exe.config
+c:\users\user\documents\visual studio 2013\Projects\шифр Вижинера\шифр Вижинера\obj\Debug\шифр Вижинера.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\шифр Вижинера\шифр Вижинера\bin\Debug\шифр Вижинера.exe
+c:\users\user\documents\visual studio 2013\Projects\шифр Вижинера\шифр Вижинера\bin\Debug\шифр Вижинера.pdb
+c:\users\user\documents\visual studio 2013\Projects\шифр Вижинера\шифр Вижинера\bin\Debug\MathNet.Numerics.dll
+c:\users\user\documents\visual studio 2013\Projects\шифр Вижинера\шифр Вижинера\bin\Debug\MathNet.Numerics.xml
+c:\users\user\documents\visual studio 2013\Projects\шифр Вижинера\шифр Вижинера\obj\Debug\шифр Вижинера.exe
+c:\users\user\documents\visual studio 2013\Projects\шифр Вижинера\шифр Вижинера\obj\Debug\шифр Вижинера.pdb
